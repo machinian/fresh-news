@@ -12,4 +12,6 @@ Web links:
 1) GitHub Pages: https://eugeneist.github.io/fresh-news
 
 
+Bye
+
 
